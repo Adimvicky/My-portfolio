@@ -1,2 +1,2 @@
 # My-portfolio
-A simple portfolio site Im creating for mysel
+A simple portfolio site I'm creating for myself
